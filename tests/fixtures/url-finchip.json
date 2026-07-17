@@ -1,0 +1,14 @@
+{
+  "type": "url",
+  "data": {
+    "url": "https://finchip.ai/"
+  },
+  "card": {
+    "title": "Open finchip.ai",
+    "subtitle": "Scan with your camera",
+    "footer": "Static QR - no redirect or tracking",
+    "theme": "paper",
+    "format": "portrait",
+    "show_payload": true
+  }
+}

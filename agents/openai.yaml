@@ -1,0 +1,4 @@
+interface:
+  display_name: "QR Life Kit"
+  short_description: "Create verified QR codes and printable life cards"
+  default_prompt: "Use $qr-life-kit to turn my URL, Wi-Fi, contact, event, or message into a verified QR card."

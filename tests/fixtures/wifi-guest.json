@@ -1,0 +1,16 @@
+{
+  "type": "wifi",
+  "data": {
+    "ssid": "Studio Guest",
+    "password": "demo-password-2026",
+    "security": "WPA",
+    "hidden": false
+  },
+  "card": {
+    "title": "Join guest Wi-Fi",
+    "subtitle": "Scan to connect",
+    "footer": "Share this card only with intended guests",
+    "theme": "sunset",
+    "format": "square"
+  }
+}

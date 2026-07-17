@@ -1,0 +1,6 @@
+QR Life Kit is an original reimplementation inspired by the ClawHub skill
+"qr-code" version 1.0.0 by Omar Khaleel.
+
+The referenced ClawHub release is distributed under MIT-0 according to the
+ClawHub skill publishing terms. No hosted QR service, tracking platform, or
+upstream runtime code is required by this implementation.

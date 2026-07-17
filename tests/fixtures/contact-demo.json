@@ -1,0 +1,17 @@
+{
+  "type": "vcard",
+  "data": {
+    "name": "FinChip Team",
+    "phone": "+1 202 555 0147",
+    "email": "contact@finchip.ai",
+    "organization": "FinChip",
+    "title": "AI Platform",
+    "url": "https://finchip.ai/"
+  },
+  "card": {
+    "title": "Save contact",
+    "subtitle": "Scan to add this contact",
+    "theme": "midnight",
+    "format": "portrait"
+  }
+}

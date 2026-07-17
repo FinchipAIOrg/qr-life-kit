@@ -1,0 +1,2 @@
+qrcode[pil]>=8.2,<9
+zxing-cpp>=2.3,<3
